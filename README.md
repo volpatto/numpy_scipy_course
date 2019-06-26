@@ -1,6 +1,7 @@
 # Curso de programação científica com Python: NumPy/SciPy
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/volpatto/numpy_scipy_course/blob/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volpatto/numpy_scipy_course/master)
 
 O presente material é referente à parte das bibliotecas científica NumPy e SciPy apresentadas no curso 
 [Programando em Python](https://pedrosiracusa.com/curso_python_eamc/), que foi ministrado no XII Encontro Acadêmico de
@@ -9,7 +10,8 @@ Modelagem Computacional do LNCC no ano de 2019. A parte inicial do curso, em que
 Aqui, disponibilizo unicamente a parte que ministrei, na qual consistiu de uma introdução suscinta das bibliotecas NumPy e SciPy, frequentemente empregadas em diversas aplicações de Computação Científica que utilizam Python.
 
 O presente curso pode ser acompanhado localmente (instruções na aula 1) ou por meio do [Google Colab](https://colab.research.google.com), que executará a nuvem, sem necessidade de instalação de nada localmente, sendo necessário
-apenas um navegador web e conexão com internet.
+apenas um navegador web e conexão com internet. Semelhante ao Colab, o curso pode ser acompanhado pelo [Binder](https://ovh.mybinder.org/), que replica o comportamento local dos Notebooks na nuvem, instalando todas as dependências para você. Particularmente recomendo essa última abordagem, porém sinta-se livre para escolher a que te parecer mais conveniente. Ambas podem ser iniciadas clicando nas badges
+abaixo do título desse README.
 
 ### Observação
 Na aula sobre SciPy, há uma leitura de arquivo `.mtx` (na parte de matrizes esparsas) que não será possível realizar no Colab.
