@@ -18,6 +18,19 @@ Na aula sobre SciPy, há uma leitura de arquivo `.mtx` (na parte de matrizes esp
 No entanto, existem soluções conhecidas para leitura e escrita de arquivos a partir do Colab, e no futuro isso será adaptado
 visando contemplar o funcionamento adequado.
 
+## Conteúdo
+
+O conteúdo está divido em duas aulas, cada uma organizada em um Notebook específico. A duração estimada do curso é de 5h, sendo 2h e meia para cada aula, considerando um ritmo moderado.
+
+### [Aula 1: Python para Computação Numérica - Parte 1: NumPy](https://github.com/volpatto/numpy_scipy_course/blob/master/notebooks/class1_numpy.ipynb)
+
+Aqui veremos uma introdução às funcionalidades básicas de um dos princípais pacotes para computação científica em Python, a 
+[NumPy](http://www.numpy.org/). Sua principal característica é a capacidade lidar eficientemente com arrays multidimensionais.
+
+### [Aula 2: Python para Computação Numérica - Parte 2: SciPy](https://github.com/volpatto/numpy_scipy_course/blob/master/notebooks/class2_scipy.ipynb)
+
+A biblioteca [SciPy](https://www.scipy.org/) oferece um conjunto de pacotes para a resolução de problemas científicos. Veremos algumas de suas principais aplicações, como por exemplo a solução de sistemas (lineares e não-lineares), otimização não-linear e Equações Diferenciais Ordinárias.
+
 ## Sobre mim
 
 Me chamo Diego Volpatto, sou desenvolvedor numérico na [ESSS](https://www.esss.co/), mestre em Modelagem Computacional pelo
