@@ -20,7 +20,7 @@ visando contemplar o funcionamento adequado.
 
 ## Conteúdo
 
-O conteúdo está divido em duas aulas, cada uma organizada em um Notebook específico. A duração estimada do curso é de 5h, sendo 2h e meia para cada aula, considerando um ritmo moderado.
+O conteúdo está dividido em duas aulas, cada uma organizada em um Notebook específico. A duração estimada do curso é de 5h, sendo 2h e meia para cada aula, considerando um ritmo moderado.
 
 ### [Aula 1: Python para Computação Numérica - Parte 1: NumPy](https://github.com/volpatto/numpy_scipy_course/blob/master/notebooks/class1_numpy.ipynb)
 
