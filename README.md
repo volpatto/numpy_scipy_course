@@ -1,5 +1,4 @@
 # Curso de programação científica com Python: NumPy/SciPy
------------------------------------------------------------
 
 O presente material é referente à parte das bibliotecas científica NumPy e SciPy apresentadas no curso 
 [Programando em Python](https://pedrosiracusa.com/curso_python_eamc/), que foi ministrado no XII Encontro Acadêmico de
