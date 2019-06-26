@@ -1,4 +1,4 @@
-# Curso de programação científica com Python: NumPy/SciPy
+# Curso introdutório de computação científica com Python: NumPy/SciPy
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/volpatto/numpy_scipy_course/blob/master)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volpatto/numpy_scipy_course/master)
