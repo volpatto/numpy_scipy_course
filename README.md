@@ -11,6 +11,11 @@ Aqui, disponibilizo unicamente a parte que ministrei, na qual consistiu de uma i
 O presente curso pode ser acompanhado localmente (instruções na aula 1) ou por meio do [Google Colab](https://colab.research.google.com), que executará a nuvem, sem necessidade de instalação de nada localmente, sendo necessário
 apenas um navegador web e conexão com internet.
 
+### Observação
+Na aula sobre SciPy, há uma leitura de arquivo `.mtx` (na parte de matrizes esparsas) que não será possível realizar no Colab.
+No entanto, existem soluções conhecidas para leitura e escrita de arquivos a partir do Colab, e no futuro isso será adaptado
+visando contemplar o funcionamento adequado.
+
 ## Sobre mim
 
 Me chamo Diego Volpatto, sou desenvolvedor numérico na [ESSS](https://www.esss.co/), mestre em Modelagem Computacional pelo
