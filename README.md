@@ -1,10 +1,15 @@
 # Curso de programação científica com Python: NumPy/SciPy
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/volpatto/numpy_scipy_course/blob/master)
+
 O presente material é referente à parte das bibliotecas científica NumPy e SciPy apresentadas no curso 
 [Programando em Python](https://pedrosiracusa.com/curso_python_eamc/), que foi ministrado no XII Encontro Acadêmico de
 Modelagem Computacional do LNCC no ano de 2019. A parte inicial do curso, em que foi apresentada uma introdução à linguagem Python, foi ministrada pelo colega [Pedro Siracusa](https://pedrosiracusa.com/).
 
 Aqui, disponibilizo unicamente a parte que ministrei, na qual consistiu de uma introdução suscinta das bibliotecas NumPy e SciPy, frequentemente empregadas em diversas aplicações de Computação Científica que utilizam Python.
+
+O presente curso pode ser acompanhado localmente (instruções na aula 1) ou por meio do [Google Colab](https://colab.research.google.com), que executará a nuvem, sem necessidade de instalação de nada localmente, sendo necessário
+apenas um navegador web e conexão com internet.
 
 ## Sobre mim
 
