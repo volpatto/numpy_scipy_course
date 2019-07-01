@@ -1,7 +1,9 @@
 # Curso introdutório de computação científica com Python: NumPy/SciPy
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/volpatto/numpy_scipy_course/blob/master)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volpatto/numpy_scipy_course/master)
+| Última revisão       	| 02/2019  	|
+|----------------------	|---	|
+| Rode no Binder       	| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volpatto/numpy_scipy_course/master)    	|
+| Rode no Google Colab 	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/volpatto/numpy_scipy_course/blob/master)   	|
 
 O presente material é referente à parte das bibliotecas científica NumPy e SciPy apresentadas no curso 
 [Programando em Python](https://pedrosiracusa.com/curso_python_eamc/), que foi ministrado no XII Encontro Acadêmico de
